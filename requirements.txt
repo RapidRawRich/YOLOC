@@ -17,3 +17,6 @@ numpy>=1.24.0
 Pillow>=9.5.0
 # setuptools pinned <82 for pkg_resources compatibility in face_recognition_models
 setuptools<82
+
+# Development & Type Checking
+pyrefly>=1.3.0
